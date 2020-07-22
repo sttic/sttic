@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**sttic/sttic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Hi there 👋</h3>
+<p align="center">I'm a 4<sup>th</sup> year software engineering student who loves penny boarding, cats, and working on cool projects!</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/tommydeng/">
+        <img src="linkedin.svg" height="24" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://www.tommydeng.com/">
+        <img src="globe-americas.svg" height="24" alt="Website" />
+    </a>
+    &nbsp;
+    <a href="https://resume.tommydeng.com/">
+        <img src="file-alt.svg" height="24" alt="Resume" />
+    </a>
+</p>
